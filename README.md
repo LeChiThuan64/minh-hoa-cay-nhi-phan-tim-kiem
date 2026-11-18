@@ -91,33 +91,7 @@ Truy cập `http://localhost:8000` để xem kết quả.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow line"/>
 
-## 🧠 Cây nhị phân tìm kiếm là gì?
 
-Mỗi nút trong BST tuân theo một quy tắc đơn giản mà mạnh mẽ:
-
-- 👈 Mọi giá trị ở **cây con trái** đều **nhỏ hơn** nút hiện tại
-- 👉 Mọi giá trị ở **cây con phải** đều **lớn hơn** nút hiện tại
-- 🚫 Không có hai nút nào mang cùng một giá trị
-
-Ví dụ cây tạo ra khi thêm lần lượt `50, 30, 70, 20, 40, 60, 80`:
-
-```mermaid
-graph TD
-    A((50)) --> B((30))
-    A --> C((70))
-    B --> D((20))
-    B --> E((40))
-    C --> F((60))
-    C --> G((80))
-
-    style A fill:#a855f7,stroke:#7e22ce,color:#fff
-    style B fill:#3b82f6,stroke:#1d4ed8,color:#fff
-    style C fill:#3b82f6,stroke:#1d4ed8,color:#fff
-    style D fill:#22c55e,stroke:#15803d,color:#fff
-    style E fill:#22c55e,stroke:#15803d,color:#fff
-    style F fill:#22c55e,stroke:#15803d,color:#fff
-    style G fill:#22c55e,stroke:#15803d,color:#fff
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow line"/>
 
@@ -201,7 +175,7 @@ Các hàm chính bên trong `index.html`:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=00F5D4&center=true&vCenter=true&width=400&height=50&lines=Quan+%F0%9F%91%8B;Sinh+vi%C3%AAn+IUH+%F0%9F%8E%93;DHCNTT21AVL+%F0%9F%92%BB" alt="Author"/>
 
-🎓 Trường Đại học Công nghiệp TP. Hồ Chí Minh (IUH) · Ngành Công nghệ thông tin
+
 
 ⭐ *Nếu thấy dự án hữu ích, hãy cho mình một ngôi sao nhé!* ⭐
 
