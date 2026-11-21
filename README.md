@@ -1,6 +1,6 @@
 <div align="center">
  https://lechithuan64.github.io/minh-hoa-cay-nhi-phan-tim-kiem/
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=260&section=header&text=BST%20Visualizer&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%8C%B3%20C%C3%A2y%20nh%E1%BB%8B%20ph%C3%A2n%20t%C3%ACm%20ki%E1%BA%BFm%20-%20Minh%20h%E1%BB%8Da%20tr%E1%BB%B1c%20quan%20%F0%9F%8C%B3&descAlignY=65&descSize=22" width="100%" alt="BST Visualizer"/>
+<img src=" https://lechithuan64.github.io/minh-hoa-cay-nhi-phan-tim-kiem/" width="100%" alt="BST Visualizer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=F72585&center=true&vCenter=true&random=false&width=780&height=50&lines=%F0%9F%9A%80+Xin+ch%C3%A0o!+%C4%90%C3%A2y+l%C3%A0+%C4%91%E1%BB%93+%C3%A1n+BST+Visualizer;%F0%9F%8C%B1+Th%C3%AAm+n%C3%BAt+%E2%86%92+c%C3%A2y+t%E1%BB%B1+%C4%91%E1%BB%99ng+l%E1%BB%9Bn+l%C3%AAn;%F0%9F%97%91%EF%B8%8F+X%C3%B3a+n%C3%BAt+%E2%86%92+c%C3%A2y+t%E1%BB%B1+%C4%91%E1%BB%99ng+s%E1%BA%AFp+x%E1%BA%BFp+l%E1%BA%A1i;%F0%9F%9A%B6+Inorder+%7C+Preorder+%7C+Postorder;%E2%9C%A8+HTML+%2B+CSS+%2B+JavaScript+thu%E1%BA%A7n" alt="Typing SVG" />
