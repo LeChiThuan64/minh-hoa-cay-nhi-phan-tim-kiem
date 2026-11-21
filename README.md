@@ -173,8 +173,6 @@ Các hàm chính bên trong `index.html`:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&color=00F5D4&center=true&vCenter=true&width=400&height=50&lines=Quan+%F0%9F%91%8B;Sinh+vi%C3%AAn+IUH+%F0%9F%8E%93;DHCNTT21AVL+%F0%9F%92%BB" alt="Author"/>
-
 
 
 ⭐ *Nếu thấy dự án hữu ích, hãy cho mình một ngôi sao nhé!* ⭐
